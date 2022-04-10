@@ -26,3 +26,4 @@ npm run build
 
 You can edit the scripts in package.json and the tailwind.config.js file to change input/output locations
 # TEMPLATE__ABOUT__MJSAY__TAILSTAT3KH
+# TEMPLATE__ABOUT__MJSAY__TAILSTAT3KHS
